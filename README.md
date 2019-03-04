@@ -23,4 +23,4 @@ Recall that a year is a leap year (has 366 days) if the year is divisible by 4, 
  
 Example: 
 
-1/2/3  =>   2001-2-3 3/20/1  =>   2001-3-20 
+- 1/2/3  =>   2001-2-3 3/20/1  =>   2001-3-20 
